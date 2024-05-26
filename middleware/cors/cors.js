@@ -1,6 +1,6 @@
 require('dotenv').config();
 
-const allowedCors = ["http://aleksscoundrel.nomoredomainswork.ru"];
+const allowedCors = ["https://aleksscoundrel.nomoredomainswork.ru"];
 
 function cors(req, res, next) {
   const { origin } = req.headers;
