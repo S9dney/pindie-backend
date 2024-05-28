@@ -1,16 +1,18 @@
 [{
   "_id": {
-    "$oid": "662e67e4decef0a2e6d368e5"
-  },
-  "username": "S9dney",
-  "email": "martaleks2020@gmail.com",
-  "password": "ilovehtml"
-},
-{
-  "_id": {
-    "$oid": "6654e1aecf71fd8b2d5b5c4f"
+    "$oid": "6606b19ef99cd7a67132aaf6"
   },
   "username": "aski",
   "email": "aski@example.com",
-  "password": "ilovehtml"
+  "password": "$2a$10$LgqW2yoQxJ6nDBaS8nfM3urShNcn0m95wgyES2lqLw2kXicCHyfmC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606b3e0ba5b4c3fa4be6dd5"
+  },
+  "username": "Sobaka",
+  "email": "jav@example.com",
+  "password": "$2a$10$g6PgxfOv1p0xVAi1FCckRuolYB5ImwazvVVhNVisaoxDI9NuAE8oi",
+  "__v": 0
 }]
